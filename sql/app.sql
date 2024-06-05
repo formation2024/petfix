@@ -14,6 +14,7 @@ CREATE TABLE IF NOT EXISTS `membre` (
     email_membre VARCHAR(255),
     tel_membre VARCHAR(20),
     id_refuge INTEGER,
+    
     id_dirigeant INTEGER
 );
 
